@@ -3,3 +3,4 @@
 Olá ! Bem vindos ao meu livro de receitas:wave:
 
 - Batata frita
+- Carne de panela
